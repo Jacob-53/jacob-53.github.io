@@ -1,11 +1,13 @@
-# Team blog@sunshin.shop
-- Our team carries on the spirit of General Yi Sun-sin and is the best tech blog.
+# Team D'oh 
+- D'oh 
   
-<img src="https://flexible.img.hani.co.kr/flexible/normal/590/354/imgdb/resize/2010/1116/128980059114_20101116.JPG" alt="tiger cute" style="width:200px;"/>
+<img src="https://static.wikia.nocookie.net/simpsons/images/8/8d/DOH.jpg/revision/latest?cb=20120102043027" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://blog.jacob53.shop
-- STG - https://blog-jacob53.web.app
+- PRD - https://blog.jacob53.shop, https://jacob-53.github.io
+- STG - https://blog-c3b4c.web.app 
+- DEV -
+- LOCAL - http://localhost:8080 
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -22,8 +24,13 @@ https://pnpm.io/ko/
 - connecting to localhost 8080
 - node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
-pnpm install
-pnpm docs:dev
+$ nvm install --lts
+$ nvm ls
+$ nvm use v22.13.0
+$ node -v
+v22.13.0
+$ pnpm install
+$ pnpm docs:dev
 ```
 
 ### build & deploy
@@ -68,9 +75,13 @@ https://oss-cashmallow.web.app
 ```
 
 2. PRD
+``` bash
 - github pages -> docs
-- sh prd-build.sh -> push -> pr merge -> deploy - end
-- https://oss.cashmallow.com
+- pnpm docs:build
+- git add.
+- git commit -a
+- git push
+https://jacob-53.github.io/
 
 <img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
 <img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
