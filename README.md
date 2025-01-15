@@ -1,11 +1,11 @@
-# tech blog@cashmallow
-- Cashmallow development team's technology blog about wanting to contribute to the open source ecosystem
+# Team blog@sunshin.shop
+- Our team carries on the spirit of General Yi Sun-sin and is the best tech blog.
   
-<img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
+<img src="https://flexible.img.hani.co.kr/flexible/normal/590/354/imgdb/resize/2010/1116/128980059114_20101116.JPG" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://oss.cashmallow.com / oss-cashmallow.github.io
-- STG - https://oss-cashmallow.web.app
+- PRD - https://blog.jacob53.shop
+- STG - https://blog-jacob53.web.app
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -15,8 +15,8 @@
 2. edit with [vscode](https://code.visualstudio.com/)
 3. install
 ``` bash
-brew install node
-brew install pnpm
+https://github.com/nvm-sh/nvm
+https://pnpm.io/ko/
 ```
 4. run - development environment [install pnpm](https://pnpm.io/installation)
 - connecting to localhost 8080

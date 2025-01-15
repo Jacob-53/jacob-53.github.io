@@ -1,34 +1,34 @@
 ---
 home: true
 
-heroImage: /images/hero.png
-heroImageDark: /images/hero.png
+heroImage: /images/doh.webp
+heroImageDark: /images/doh2.webp
 
-heroText: 'tech blog@cashmallow'
-title: tech blog
+heroText: 'blog@jacob53.shop'
+title: team.D'oh
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline:  D'oh
 
 actions:
-  - text: tech SHARE
+  - text: D'oh
     link: /tech/share
     type: primary
   
-  - text: team TIGER
+  - text: D'oh D'oh
     link: /team/tiger
     type: secondary
 
-  - text: open SOURCE
+  - text: D'oh D'oh D'oh
     link: /tech/share/opensource
     type: secondary
 
 features:
-- title: team TIGER
-  details: Cashmallow Development Team. A person-centered devops-friendly software developer organization that makes and operates more than customers want one step faster than the market.
-- title: cashmallow
-  details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.
-- title: mallowLINK
-  details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
+- title: team D'oh
+  details: D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh
+- title: D'oh 
+  details: D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh 
+- title: D'oh 
+  details: D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh 
 
-footer: THE TIGER@cashmallow who has returned the favor. 2016.
+footer:  D'oh Jacob. 2025.
 ---
