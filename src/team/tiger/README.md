@@ -18,8 +18,8 @@
 
 5. 힐러와 히어로 - 
 
-![힐러](https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/OW2_Ana.png/revision/latest?cb=20241102141052)- 힐러는 ANA
-
+![힐러](https://staticg.sportskeeda.com/editor/2022/10/e8869-16655984605545-1920.jpg)
+- ANA
 :::
 
 ### Member
