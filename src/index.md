@@ -14,8 +14,8 @@ actions:
     link: /tech/share
     type: primary
   
-  - text: D'oh D'oh
-    link: /team/tiger
+  - text: Resume
+    link: /resume
     type: secondary
 
   - text: D'oh D'oh D'oh
