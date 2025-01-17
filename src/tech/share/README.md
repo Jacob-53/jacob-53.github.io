@@ -1,12 +1,6 @@
-# It' me 
+# It's me 
 ### BOOSTING
-::: warning BOOSTING
-- 
-
-- 
-
-- 
-
+::: BOOSTING
 - 
 
 ![Hammering man](/images/jacobtemplate.png)
@@ -19,17 +13,17 @@
 - 우리가 투자하는 곳은 시장이 아니라 사람
 
 ### WANTED
-::: tip WANTED
+::: 
 - 
 - 
--  
 :::
 
-### YOU GO WE GO
-![you go we go](https://y.yarn.co/6cac959a-cd1c-4f02-a94e-3d0857f56a85_text.gif)
+### Build up 
+![Build up](https://sterlinghomeswpg.com/wp-content/uploads/2021/11/things-that-can-delay-new-home-build-featured-image.png)
 
 ``` bash
-# 
-# 
+- Tabula Rasa
+- Open-minded
+
 
 ```
