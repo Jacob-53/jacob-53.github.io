@@ -7,7 +7,7 @@ heroImageDark: /images/doh2.webp
 heroText: 'blog@jacob53.shop'
 title: team.D'oh
 
-tagline:  D'oh
+tagline:  My Notes on What I've Seen and Learned
 
 actions:
   - text: D'oh
