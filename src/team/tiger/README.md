@@ -6,7 +6,7 @@
 - 
 
 - 
-![Woohoo](/images/woohoo.png)
+![d'oh](/images/doh.webp)
 :::
 
 ### Contents will be updated
@@ -38,7 +38,7 @@
 - [Jacob's Github](https://github.com/Jacob-53)
 - [Blog](https://jacob-53.github.io/) 업데이트 예정입니다.
 
-![Jacob](/images/tiger-slamdunk/woohoo.png)
+![Jacob](/images/doh2.webp)
 ```
 
 MySQL
