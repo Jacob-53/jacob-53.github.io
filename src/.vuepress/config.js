@@ -14,7 +14,7 @@ export default defineUserConfig({
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'jacob blog' }],
+    ['meta', { property: 'og:title', content: 'Jacob blog' }],
     ['meta', { property: 'og:description', content: "My Notes on What I've Seen and Learned" }],
     ['meta', { property: 'og:image', content: 'https://blog.jacob53.shop/images/jacobtemplate.png' }],
     ['meta', { property: 'og:url', content: 'https://blog.jacob53.shop' }],
@@ -66,7 +66,7 @@ export default defineUserConfig({
     logo: "/images/doh.webp",
     logoDark: "/images/doh.webp",
 
-    repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
+    repo: "https://github.com/Jacob-53/jacob-53.github.io",
     repoLabel: "discussions",
 
     contributors: false,
@@ -81,34 +81,31 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "Github", link: "https://github.com/Jacob-53" },
+      { text: "Resume ", link: "/resume" },
     ],
 
     sidebar: {
       "/": [
         {
-          text: "share",
+          text: "It'me",
           collapsible: true,
           children: [
             "/tech/share/",
           ],
         },
         {
-          text: "team",
+          text: "blog",
           collapsible: true,
           children: [
             "/team/tiger/",
-            "/team/recruit/",
-            "/team/how2pr/",
-            "/team/tiger2agile/",
           ],
         },
         {
-          text: "opensource",
+          text: "Resume",
           collapsible: true,
           children: [
-            "/tech/share/opensource/",
+            "/resume",
           ],
         },
       ],

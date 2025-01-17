@@ -1,6 +1,6 @@
 {
   "name": "blog.jacob53.shop",
-  "version": "25.1.17-1",
+  "version": "25.1.17-2",
   "description":"My Notes on What I've Seen and Learned",
   "main": "index.js",
   "scripts": {

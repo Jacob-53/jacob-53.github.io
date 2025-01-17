@@ -6,119 +6,43 @@
 - 
 
 - 
-![cute tiger](/images/tiger-cute.svg)
+![d'oh](/images/doh.webp)
 :::
 
-### Guide for New Members
+### Contents will be updated
 ::: 
 
 
 
 
 
-5. 힐러와 히어로 - 
+ 힐러와 히어로
 
 ![힐러](https://staticg.sportskeeda.com/editor/2022/10/e8869-16655984605545-1920.jpg)
 - ANA
 :::
 
-### Member
-::: tip
-- [인재 영입](team/recruit/)
-![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
-:::
-::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
-- 
-![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
+### content
+:::  will
+- be updated
+
 :::
 
-::: details Ock <Badge type="tip" text="iOS" vertical="top" />
-- iOS Developer
-- UI/UX에 진심입니다.
-- 사용자를 생각하며 개발합니다.
-- 열심히 잘 하겠습니다.
+### Jacob
+::: details Jacob <Badge type="tip" text="LG U+4기 " vertical="top" /> <Badge type="warning" text="NEWBIE" vertical="top" /> <Badge type="tip" text="찾아가는중" vertical="top" /> <Badge type="tip" text="Data Engineer?" vertical="top" />
+- 최근 경력이라면.. 용산 미군기지 안에 있는  GNC 보충제 샵에서 매장운영 및 발주 등 전반적인 일을 했었습니다.
+- 취미는 게임입니다 총 쏘는 게임 좋아합니다 Call of Duty 멀티 주로 하고 있어요.
+- 아직 직무나 분야를 정하지는 못했어요 매일 새로워서 배우다 보면 더 집중적으로 배우고 싶은게 생길거라 생각하고 있습니다.
+- 아무것도 모르고 헤매고 있을 때 도와주셔서 감사해요!!
+- 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!
+- [Jacob's Github](https://github.com/Jacob-53)
+- [Blog](https://jacob-53.github.io/) 업데이트 예정입니다.
 
-![Ock](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
+![Jacob](/images/doh2.webp)
 ```
-Swift
-SwiftUI
-```
-:::
 
-::: details JK <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- 자료구조와 데이터베이스를 좋아합니다.
-- 최적화에 진심입니다.
-- 열심히 하겠습네다. 잘 부탁드립네다.
-
-![JK](/images/darth-vader.png)
-```
-Java
-Spring Boot
-Mysql
-```
-:::
-
-::: details Dew <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- Kubernetes Engineer
-- 많은 관심과 격려 부탁드립니다~~
-
-![Dew](/images/tiger-slamdunk/tiger-slamdunk.007.jpeg)
-```
-Java & Spring
-Oracle, Mysql
-Kubernetes
-```
-:::
-
-::: details Alex <Badge type="warning" text="backend" vertical="top" />
-- M.S. in Computer Science
-- Backend Engineer
-- 좋은 백엔드 엔지니어가 되기 위해서 공부 중입니다. 많이 물어보고 많이 가르쳐주세요.
-
-![Alex](/images/tiger-slamdunk/tiger-slamdunk.004.jpeg)
-```
-JAVA
-C
-Spring boot
-Kubernetes
-OpenGL
-LiDAR - Light Detection And Ranging
-```
-:::
-
-::: details JD <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
-- Impossible is nothing!
-- Super positive!
-- Backend + Front(Android, iOS, Flutter) developer
-
-![JD](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
-```
-Flutter, Nest.JS, TypeScript, Android, iOS
-Spring boot
-MySQL, MongoDB, PostgreSQL
-Docker
-AWS, GCP
-```
-:::
-
-::: details Seok <Badge type="tip" text="web developer, Backend Engineer" vertical="top" />
-- Communicate with consideration for each other!
-- web developer, Back-end
-
-![Seok](/images/tiger-slamdunk/tiger-slamdunk.001.jpeg)
-```
-MySQL, Oracle, 
-Java, Spring Framework, Spring Boot
-jQuery, json
+MySQL
+Python
 
 ```
 :::
-
-### LGTM
-- 함께 떠나요! 하와이(니가 ...)
-
-![LGTM](https://i.lgtm.fun/28py.png)
-
-<CaptionedImage src="/images/tiger-cute.svg" caption="Caption Example"></CaptionedImage>
