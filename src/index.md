@@ -5,7 +5,7 @@ heroImage: /images/doh.webp
 heroImageDark: /images/doh2.webp
 
 heroText: 'blog@jacob53.shop'
-title: Jacob' blog
+title: Jacob's blog
 
 tagline:  My Notes on What I've Seen and Learned
 
@@ -14,7 +14,7 @@ actions:
     link: /tech/share
     type: primary
   
-  - text: Jacob' Blog
+  - text: Jacob's Blog
     link: team/tiger/
     type: secondary
 
@@ -23,8 +23,8 @@ actions:
     type: secondary
 
 features:
-- title: team D'12:48
-  details: D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh
+- title: Jacob's blog
+  details: D'oh
 - title: D'oh 
   details: D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh 
 - title: D'oh 

@@ -9,7 +9,7 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: "Jacob' blog",
+  title: "Jacob's blog",
   description: "My Notes on What I've Seen and Learned",
 
   head: [
@@ -88,7 +88,7 @@ export default defineUserConfig({
     sidebar: {
       "/": [
         {
-          text: "It'me",
+          text: "It's me",
           collapsible: true,
           children: [
             "/tech/share/",
