@@ -1,12 +1,12 @@
-# RESUME
+### Jacob
 
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/doh.webp" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +82 xxxxxxxx <br> Nationality: Korean 
+  @gmail.com <br> mobile: +82 xxxxxxxx <br> Nationality: Korean 
 </span>
 
-# Casualwriter  
+# 안녕하세요 새로운 시작을 준비하는 **[Jacob]**입니다.  
 
 ## Executive Summary
 
@@ -15,7 +15,19 @@
 * Hand-on experience in oracle database
 * Proficient in JavaScript, Java, Powerbuilder
 
-## Working Experience
+## 📄 Quick Resume
+
+- **Name:**[Jacob]
+- **Location:**[서울]
+- **Contact:**[@gmail.com] | [Github](https://github.com/Jacob-53)
+
+
+## 🛠️ Skills
+
+- **언어:** Python
+- **프레임워크 및 툴:** Git,Github,Vercel
+- **기타:** 
+## 🎓Education
 
 #### Current Company (Project Manager, 2015/08 - present) 
 
