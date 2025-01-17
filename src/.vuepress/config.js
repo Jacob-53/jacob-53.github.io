@@ -9,15 +9,15 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: "D'oh",
-  description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+  title: "Jacob' blog",
+  description: "My Notes on What I've Seen and Learned",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:cashmallow' }],
-    ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'https://oss.cashmallow.com' }],
+    ['meta', { property: 'og:title', content: 'jacob blog' }],
+    ['meta', { property: 'og:description', content: "My Notes on What I've Seen and Learned" }],
+    ['meta', { property: 'og:image', content: 'https://blog.jacob53.shop/images/jacobtemplate.png' }],
+    ['meta', { property: 'og:url', content: 'https://blog.jacob53.shop' }],
   ],
   
   locales: {
@@ -25,13 +25,13 @@ export default defineUserConfig({
     // As a special case, the default locale can use '/' as its path.
     '/en/': {
       lang: 'en-US',
-    //   title: 'tech-blog:cashmallow',
-    //   description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+    //   title: 'Jacob blog',
+    //   description: "My Notes on What I've Seen and Learned",
     },
     '/': {
       lang: 'ko-KR',
-    //   title: 'tech-blog:cashmallow',
-    //   description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+    //   title: 'Jacob blog',
+    //   description: "My Notes on What I've Seen and Learned",
     },
   },
 
