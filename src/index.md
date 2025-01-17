@@ -5,21 +5,21 @@ heroImage: /images/doh.webp
 heroImageDark: /images/doh2.webp
 
 heroText: 'blog@jacob53.shop'
-title: team.D'oh
+title: Jacob' blog
 
 tagline:  My Notes on What I've Seen and Learned
 
 actions:
-  - text: D'oh
+  - text: It's me 
     link: /tech/share
     type: primary
   
-  - text: Resume
-    link: /resume
+  - text: Jacob' Blog
+    link: team/tiger/
     type: secondary
 
-  - text: D'oh D'oh D'oh
-    link: /tech/share/opensource
+  - text: Resume
+    link: /resume
     type: secondary
 
 features:

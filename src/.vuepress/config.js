@@ -66,7 +66,7 @@ export default defineUserConfig({
     logo: "/images/doh.webp",
     logoDark: "/images/doh.webp",
 
-    repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
+    repo: "https://github.com/Jacob-53/jacob-53.github.io",
     repoLabel: "discussions",
 
     contributors: false,
