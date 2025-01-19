@@ -11,11 +11,11 @@ tagline:  My Notes on What I've Seen and Learned
 
 actions:
   - text: It's me 
-    link: /tech/share
+    link: /itsme 
     type: primary
   
   - text: Jacob's Blog
-    link: team/tiger/
+    link: /jacobblog
     type: secondary
 
   - text: Resume
@@ -23,12 +23,12 @@ actions:
     type: secondary
 
 features:
-- title: Jacob's blog
-  details: D'oh
-- title: D'oh 
-  details: D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh 
-- title: D'oh 
-  details: D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh D'oh 
+- title: It's me
+  details: Express my thoughts
+- title: Blog 
+  details: Share my thoughts
+- title: Resume 
+  details: Resume
 
 footer:  D'oh Jacob. 2025.
 ---
