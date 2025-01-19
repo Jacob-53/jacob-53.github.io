@@ -91,14 +91,14 @@ export default defineUserConfig({
           text: "It's me",
           collapsible: true,
           children: [
-            "/tech/share/",
+            "/itsme"
           ],
         },
         {
           text: "blog",
           collapsible: true,
           children: [
-            "/team/tiger/",
+            "jacobblog",
           ],
         },
         {
