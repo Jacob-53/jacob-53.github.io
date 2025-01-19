@@ -4,12 +4,12 @@
 ### On the way to work
 ![On the way to work](/images/oww.png)
 
-- 어느 좋은 날씨의  출근길
+- 아침 날씨가 좋아서
 
 ### On the way to home
 ![On the way to home](/images/owh.png)
 
-- Happy
+- Woohoo 집으로 가는 길
 
 
 ### One fine day
