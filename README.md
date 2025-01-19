@@ -42,8 +42,7 @@ $ pnpm docs:dev
 - git add .
 - git commit
 - git push
-
-- 각 브랜치와 STG(firebase) 연결 수정 후 테스트 가능 
+- 브랜치 PR과  STG(firebase) 연결됨 수정 후 테스트 가능 
 <!-- ``` bash
 $ sh deploy-stg.sh
 
@@ -86,14 +85,18 @@ https://oss-cashmallow.web.app
 - 브랜치 PR 에 생성된 STG 링크로 테스트 완료했다면
 - main 에 머지후 릴리스 노트 생성
 - Github Action 에서 진행과정 확인
-- [PRD](https://blog.jacob53.shop) 
-<!-- github pages - docs
+- ![PRD](https://blog.jacob53.shop) 
+
+<!-- 
+github pages - docs
 - pnpm docs:build
 - git add.
 - git commit -a
-- git push -->
+- git push
 
 https://jacob-53.github.io/
 
 <img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
 <img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
+--> 
+```

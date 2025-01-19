@@ -14,6 +14,19 @@
 - **Location:** 서울
 - **Contact:** @gmail.com  | [Github](https://github.com/Jacob-53)
 
+### 🌟 Recent Projects
+
+1. [나이계산기 + 서버의 python 버전 출력하기]
+ - Description: 생년월일을 입력하면 연나이,만나이,한국식나이,음력반영한 띠를 알려드립니다.<br> 배포된 서버의 Python 버전을 동시에 알려드립니다.
+ - Tech Stack: python, fastapi, pyenv, uvicorn 
+ - Github : [Github](https://github.com/Jacob-53/nextjs-fastapi-starter)
+
+2. [나의 첫 pypi 패키지 만들기]
+ - Description: os 버전 출력기, 친구들의 패키지 중 그림 출력하는 모듈을 랜덤으로 불러와 출력하기
+ - Tech Stack: python, pyenv, pdm
+ - Github : [Github](https://github.com/Jacob-53/jacob-os-version-check)
+
+
 
 ### 🛠️ Skills
 
@@ -22,7 +35,7 @@
 - **기타:** 직무와 연관된 기술들은 없지만 그 동안 경험했던 업무 에서 예를 들자면 예기치 못한 수요와 직원의 실수로 벌어진 일들을 문제점 부터 빠르게 파악하고 해결 방법을 내(수입처 다변화) 외부(판매 정책변경) 모두 적용하여 안정적으로 해결해낸 경험이 있습니다. 
 
 ### 🎓 Education
-- ** 경영학 in 금융경영학 ** - 상명대학교,2014
+- **경영학 in 금융경영학과** - 상명대학교,2014
 
 ### 🏢 Previous Experience
 - Footlocker korea [2014~2015]
