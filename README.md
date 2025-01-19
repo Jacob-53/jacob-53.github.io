@@ -81,13 +81,12 @@ https://oss-cashmallow.web.app
 
 
 2. PRD
-``` bash
 - 브랜치 PR 에 생성된 STG 링크로 테스트 완료했다면
 - main 에 머지후 릴리스 노트 생성
 - Github Action 에서 진행과정 확인
 - ![PRD](https://blog.jacob53.shop) 
 
-<!-- 
+<!-- ``` bash 
 github pages - docs
 - pnpm docs:build
 - git add.
