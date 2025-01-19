@@ -20,7 +20,7 @@
  - Description: 생년월일을 입력하면 연나이,만나이,한국식나이,음력반영한 띠를 알려드립니다.<br> 배포된 서버의 Python 버전을 동시에 알려드립니다.
  - Tech Stack: python, fastapi, pyenv, uvicorn 
  - Github : [Github](https://github.com/Jacob-53/nextjs-fastapi-starter)
- - PRD : [Age Calculator](https://acalc.jacob53.shop/)
+ - Prod : [Age Calculator](https://acalc.jacob53.shop/)
 
 2. [나의 첫 pypi 패키지 만들기]
  - Description: os 버전 출력기, 친구들의 패키지 중 그림 출력하는 모듈을 랜덤으로 불러와 출력하기
@@ -28,7 +28,10 @@
  - Github : [Github](https://github.com/Jacob-53/jacob-os-version-check)
  - Pypi : [Pypi](https://pypi.org/project/jacob-os-version-check/)
 
-
+3. [개인블로그 만들기]+[팀블로그 작성 참여하기]
+ - Description: 나를 나타내는 글을 작성하거나 관심사 사진 그리고 간단 이력서를 작성하여 나를 알리기 <br> pnpm으로 로컬에서 먼저 테스트 한 다음  PR 과 firebase를 연동하여 STG 개념으로 테스트 <br> 그리고 메인으로 merge 하여 릴리스노트 작성 완료 후 동시에 Prod 배포. 
+ - Tech Stack: nvm,pnpm,firebase,github pages
+ - prod : [Blog](https://blog.jacob53.shop/)
 
 ### 🛠️ Skills
 
