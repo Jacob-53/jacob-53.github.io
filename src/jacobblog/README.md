@@ -2,9 +2,9 @@
 
 
 ### On the way to work
-![On the way to work](/images/onthewaywork.JPEG)
+![On the way to work](/images/oww.png)
 
-- 즐거운 출근길
+- 어느 날씨 좋은날의  출근길
 
 ### On the way to home
 ![On the way to home](/images/onthewayhome.JPEG)
