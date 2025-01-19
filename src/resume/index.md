@@ -6,24 +6,23 @@
   @gmail.com <br> mobile: +82 xxxxxxxx <br> Nationality: Korean 
 </span>
 
-## 안녕하세요 새로운 시작을 준비하는 Jacob 입니다.  
-
+## 안녕하세요<br> 새로운 시작을 준비하는 Jacob 입니다.
 
 ### 📄 Quick Resume
 
-- **Name:**[Jacob]
-- **Location:**[서울]
-- **Contact:**[@gmail.com] | [Github](https://github.com/Jacob-53)
+- **Name:** Jacob
+- **Location:** 서울
+- **Contact:** @gmail.com  | [Github](https://github.com/Jacob-53)
 
 
 ### 🛠️ Skills
 
 - **언어:** Python
 - **프레임워크 및 툴:** Git,Github,Vercel
-- **기타:** 직무와 연관된 기술들은 없지만 그 동안 경험했던 업무 에서 예기치 못한 수요와 직원의 실수로 벌어진 일들을 빠르게 수습하면서 평판 유지와 이해관련자들의 
+- **기타:** 직무와 연관된 기술들은 없지만 그 동안 경험했던 업무 에서 예를 들자면 예기치 못한 수요와 직원의 실수로 벌어진 일들을 문제점 부터 빠르게 파악하고 해결 방법을 내(수입처 다변화) 외부(판매 정책변경) 모두 적용하여 안정적으로 해결해낸 경험이 있습니다. 
 
-### 🎓Education
-- **[경영학] in [금융경영학]** - [상명대학교],[2014]
+### 🎓 Education
+- ** 경영학 in 금융경영학 ** - 상명대학교,2014
 
 ### 🏢 Previous Experience
 - Footlocker korea [2014~2015]
