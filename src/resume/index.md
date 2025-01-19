@@ -3,7 +3,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/doh.webp" />
 
 <span style="float:right;padding:6px"> 
-  @gmail.com <br> mobile: +82 xxxxxxxx <br> Nationality: Korean 
+  @gmail.com <br> mobile: +82 01012345678 <br> Nationality: Korean 
 </span>
 
 ## 안녕하세요<br> 새로운 시작을 준비하는 Jacob 입니다.
@@ -20,11 +20,13 @@
  - Description: 생년월일을 입력하면 연나이,만나이,한국식나이,음력반영한 띠를 알려드립니다.<br> 배포된 서버의 Python 버전을 동시에 알려드립니다.
  - Tech Stack: python, fastapi, pyenv, uvicorn 
  - Github : [Github](https://github.com/Jacob-53/nextjs-fastapi-starter)
+ - PRD : [Age Calculator](https://acalc.jacob53.shop/)
 
 2. [나의 첫 pypi 패키지 만들기]
  - Description: os 버전 출력기, 친구들의 패키지 중 그림 출력하는 모듈을 랜덤으로 불러와 출력하기
  - Tech Stack: python, pyenv, pdm
  - Github : [Github](https://github.com/Jacob-53/jacob-os-version-check)
+ - Pypi : [Pypi](https://pypi.org/project/jacob-os-version-check/)
 
 
 
