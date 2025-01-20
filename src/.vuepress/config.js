@@ -95,10 +95,10 @@ export default defineUserConfig({
           ],
         },
         {
-          text: "blog",
+          text: "Blog",
           collapsible: true,
           children: [
-            "jacobblog",
+            "/jacobblog",
           ],
         },
         {
