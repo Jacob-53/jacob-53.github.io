@@ -33,7 +33,7 @@
  - Description: 나를 나타내는 글을 작성하거나 관심사 사진 그리고 간단 이력서를 작성하여 나를 알리기 <br> pnpm으로 로컬에서 먼저 테스트 한 다음  PR 과 firebase를 연동하여 STG 개념으로 테스트 <br> 그리고 메인으로 merge 하여 릴리스노트 작성 완료 후 동시에 Prod 배포. 
  - Tech Stack: nvm,pnpm,firebase,github pages
  - Github : [Github](https://github.com/Jacob-53/jacob-53.github.io)
- - prod : [Blog](https://blog.jacob53.shop/)
+ - Prod : [Blog](https://blog.jacob53.shop/)
 
 ### 🛠️ Skills
 
