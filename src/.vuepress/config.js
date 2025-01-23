@@ -15,7 +15,7 @@ export default defineUserConfig({
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Jacob blog' }],
-    ['meta', { property: 'og:description', content: "My Notes on What I've Seen and Learned" }],
+    ['meta', { property: 'og:description', content: "My Notes on What I've Seen and Learned.제이콥 기술블로그. 콥블로그." }],
     ['meta', { property: 'og:image', content: 'https://blog.jacob53.shop/images/jacobtemplate.png' }],
     ['meta', { property: 'og:url', content: 'https://blog.jacob53.shop' }],
   ],
