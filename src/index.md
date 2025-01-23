@@ -10,11 +10,11 @@ title: Jacob's blog
 tagline:  My Notes on What I've Seen and Learned
 
 actions:
-  - text: It's me 
+  - text: Tech blog 
     link: /itsme 
     type: primary
   
-  - text: Jacob's Blog
+  - text: For My Eyes
     link: /jacobblog
     type: secondary
 
@@ -23,10 +23,10 @@ actions:
     type: secondary
 
 features:
-- title: It's me
-  details: Express my thoughts
-- title: Blog 
-  details: Share my thoughts
+- title: Tech blog
+  details: What i've learned
+- title: For my eyes
+  details: Browse FME 
 - title: Resume 
   details: Resume
 

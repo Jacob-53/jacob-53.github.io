@@ -1,4 +1,4 @@
-# It's me 
+# Tech blog 
 
 
 ### Hammering man
@@ -28,7 +28,7 @@
 - 아직 직무나 분야를 정하지는 못했어요 매일 새로워서 배우다 보면 더 집중적으로 배우고 싶은게 생길거라 생각하고 있습니다.
 - 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!                                                             
 - [Jacob's Github](https://github.com/Jacob-53)
-- [Blog](https://jacob-53.github.io/) 업데이트 예정입니다.
+
 
 ![Jacob](/images/doh2.webp)
 ```
